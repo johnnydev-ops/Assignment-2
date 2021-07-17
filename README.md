@@ -1,6 +1,6 @@
 # Assignment-2
-Web Development HTML&amp;CSS
-Studied @ Univeristy West Sweden
+Web Development HTML&amp;CSS - 
+Studied @ Univeristy West Sweden - 
 Arthur @JohnnyDev_
 
 Specifications
