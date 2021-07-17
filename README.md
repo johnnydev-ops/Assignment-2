@@ -23,4 +23,3 @@ Specifications
 - the bulleted list must have a square "dot" for each list item if you use an unnumbered list. If you use an ordered list, it must be arranged with Roman numerals
 - Addresses for images and links that are internally on the website must be relative addresses.
 - the files must be validated on W3C's HTML Validator and W3C's CSS Validator (Links to an external site.).
-- packed with Zip before submission on Canvas
