@@ -1,0 +1,133 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 14px;
+  color: #222;
+  background-color: whitesmoke;
+  margin: 0px;
+  padding-top: 2em;
+  width: 80%;
+  margin: 0 auto;
+}
+/*
+Heading 2 Constructed color, word spacing, font size and font family 
+*/
+h2 {
+  word-spacing: 1.5px;
+  font-size: 26px;
+  font-style: normal;
+  color: #009;
+  font-family: "Roboto Condensed", sans-serif, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+/*
+Heading 3 Constructed boarder around Letters Grey Boarders, Depending on the style you want 
+*/
+h4 {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  color: grey;
+  text-transform: uppercase;
+  font-size: 2em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+  text-align: center;
+}
+/*
+5 Paragraphs constructed and formatted on CSS, You can also change the font family in heading
+*/
+p {
+  font-family: roboto;
+  font-weight: 100;
+  letter-spacing: 0.3px;
+  word-spacing: 1.5px;
+  text-indent: 1px;
+  font-size: 14px;
+  margin-bottom: 32px;
+  line-height: 2em;
+  text-indent: 25px;
+  font-weight: 100;
+  text-align: center;
+}
+/*
+Heading 1 Constructed 
+*/
+h1 {
+  font-family: "Roboto Condensed", Arial, sans-serif;
+  background-color: white;
+  letter-spacing: 1px;
+  font-size: 2rem;
+  word-spacing: 8px;
+  border-style: double;
+  border-width: 1px;
+  border-color: lightgrey;
+  text-align: center;
+}
+/*
+Mouse Cursor for Links Constructed 
+*/
+.wrapper {
+  letter-spacing: 3px;
+  font-size: medium;
+  word-spacing: 1.5px;
+  background-color: white;
+}
+/*
+Mouse Cursor for Links Constructed when user hovers over, you cant construct Active as well
+*/
+.wrapper a:hover {
+  background: lightgray;
+}
+@font-face {
+  font-family: "Roboto Condensed", sans-serif;
+  src: url(Fonts/Roboto-Bold.ttf);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  color: #009;
+}
+/*
+Hard to find a free download of this font, but i also read and 
+researched that otf is not a great source to use, due to alot 
+of browers support ttf, if true, so i thought to mention.
+*/
+@font-face {
+  font-family: "Museo Sans";
+  src: url(Fonts/MuseoSans_500_Italic.otf);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #009;
+}
+h3 {
+  font-family: "Museo Sans";
+  font-weight: 100;
+  font-style: normal;
+  font-size: 18px;
+  color: #009;
+}
+nav {
+  text-align: center;
+}
+.type1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.disc1 {
+  display: block;
+  list-style-type: disc;
+  margin: 1em 0 1em 0;
+}
+.circle {
+  display: block;
+  list-style-type: circle;
+  margin: 1em 0 1em 0;
+}
+.squares {
+  display: block;
+  list-style-type: square;
+  margin: 1em 0 1em 0;
+}
